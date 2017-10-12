@@ -24,6 +24,17 @@ List of Pebble apps which do not connect to the Internet
 - [Pomodoro](https://github.com/juliengrenier/pebble-pomodoro)
 - [Block World](https://github.com/pebble-hacks/block-world)
 - [openHAB Pebble](https://github.com/openhab/openhab.pebble)
+- [Tomato](https://github.com/alexkuz/Tomato)
+- [POMO D'ORO](https://github.com/kalangaum/pomopebble)
+- [Pomodoro](https://github.com/juliengrenier/pebble-pomodoro)
+- [Goal Star](https://github.com/kevincon/goal_star)
+- [Running Coach](https://github.com/jango/pebble_running)
+- [Exhale](https://github.com/cheeseisdisgusting/exhale)
+- [Stopwatch](https://github.com/Katharine/pebble-stopwatch)
+- [4 Minute Workout](https://github.com/pwoodward/Pebble-4minworkout)
+- [Abs Plank](https://github.com/zeerd/pebble_abs_plank)
+- [Pebble Pulse](https://github.com/tomwilshere/pebblepulse)
+- [PowerNap](https://github.com/josemussa/powernap)
 
 ## Watchfaces
 - [Revolution](https://github.com/DouweM/PebbleRevolution)
@@ -65,6 +76,11 @@ List of Pebble apps which connect to the Internet, categorized by the connection
 - [Workout Timer](https://github.com/Fertogo/Pebble-workout-timer) - configuration page on a personal server
 - [Directions](https://github.com/thibautrey/Directions) - configuration page on a personal server, Google Maps API over HTTPS
 - [AREALLYBADIDEACOPTER](https://github.com/DeviaVir/AREALLYBADIDEACOPTER) - configuration page on a personal server
+- [Series Timer](https://apps.getpebble.com/en_US/application/557d66fe0f114c7d1a000016?section=watchapps&dev_settings=true) - configuration page on a personal server
+- [Happimeter](https://github.com/pbudner/pebble-happimeter) - configuration page on a personal server, API on a personal HTTPS server
+- [Track Mood](https://github.com/samuelmr/pebble-trackmood) - configuration page through the Pebble Clay Framework over HTTP, Pebble Timeline API over HTTPS
+- [Shows](https://github.com/youtux/PebbleShows) - logs to a personal server over plain HTTP, Trakt.tv over HTTPS
+- [Rain](https://github.com/zeusttu/pebble-rain) - sends location coordinates to weather APIs over plain HTTP
 
 ### Watchfaces
 - [TimeStyle Pebble](https://github.com/freakified/TimeStylePebble) - sends location coordinates to weather APIs over plain HTTP
@@ -100,6 +116,9 @@ List of Pebble apps which connect to the Internet, categorized by the connection
 - [WunderPebble](https://github.com/jahdaic/WunderPebble) - configuration page on a personal server, Wunderlist API
 - [WakaPebble](https://github.com/ksolomon/WakaPebble) - WakaTime API
 - [Commander](https://github.com/c0decat/pebble-commander) - configuration page on a personal server
+- [Mood Tracker](https://github.com/alni/MoodTracker) - configuration page on a personal server, Pebble Timeline API
+- [Remember](https://github.com/ben-hudson/remember) - Pebble Timeline API, Wit.ai API
+- [Battery-](https://github.com/faelys/battery-minus) - configuration page on a personal server
 
 ### Watchfaces
 - [Pebble Seizure Detect](https://github.com/PebbleSeizureDetect/PebbleSeizureDetect) - requests Twillio.com for SMS messages
