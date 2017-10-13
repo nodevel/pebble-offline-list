@@ -35,6 +35,10 @@ List of Pebble apps which do not connect to the Internet
 - [Abs Plank](https://github.com/zeerd/pebble_abs_plank)
 - [Pebble Pulse](https://github.com/tomwilshere/pebblepulse)
 - [PowerNap](https://github.com/josemussa/powernap)
+- [J's Tea Timer](https://github.com/jaranflaath/PebbleTeaTime)
+- [Teach Tech](https://github.com/tbeattysk/teachertimer)
+- [TEAM HUMAN WATCH](https://github.com/Dreitser/team-human-watch)
+- [Short Timer](https://github.com/scruben/shorttimer)
 
 ## Watchfaces
 - [Revolution](https://github.com/DouweM/PebbleRevolution)
@@ -81,6 +85,7 @@ List of Pebble apps which connect to the Internet, categorized by the connection
 - [Track Mood](https://github.com/samuelmr/pebble-trackmood) - configuration page through the Pebble Clay Framework over HTTP, Pebble Timeline API over HTTPS
 - [Shows](https://github.com/youtux/PebbleShows) - logs to a personal server over plain HTTP, Trakt.tv over HTTPS
 - [Rain](https://github.com/zeusttu/pebble-rain) - sends location coordinates to weather APIs over plain HTTP
+- [teatime](https://github.com/wttw/pebble-teatime) - configuration page on a personal server
 
 ### Watchfaces
 - [TimeStyle Pebble](https://github.com/freakified/TimeStylePebble) - sends location coordinates to weather APIs over plain HTTP
@@ -119,6 +124,9 @@ List of Pebble apps which connect to the Internet, categorized by the connection
 - [Mood Tracker](https://github.com/alni/MoodTracker) - configuration page on a personal server, Pebble Timeline API
 - [Remember](https://github.com/ben-hudson/remember) - Pebble Timeline API, Wit.ai API
 - [Battery-](https://github.com/faelys/battery-minus) - configuration page on a personal server
+- [Tea's Ready](https://github.com/leomike/tea) - configuration page on a personal server
+- [Teacup](https://github.com/aaronpk/Teacup-for-Pebble) - configuration page and API on a personal server
+- [SoberUp](https://github.com/kevincon/SoberUp) - configuration page on a personal server
 
 ### Watchfaces
 - [Pebble Seizure Detect](https://github.com/PebbleSeizureDetect/PebbleSeizureDetect) - requests Twillio.com for SMS messages
